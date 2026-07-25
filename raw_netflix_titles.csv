@@ -1,0 +1,821 @@
+ShowID,Type,Title,Country,ReleaseYear,DateAdded,Rating,Genre,DurationMinutes,Seasons
+s287,Movie,Title_287,France,2023,2023-10-08,TV-MA,Crime,60.0,
+s506,Movie,Title_506,United States,2021,2021-10-13,TV-14,Sci-Fi,135.0,
+s321,Movie,Title_321,Australia,2023,2024-06-21,TV-PG,Drama,153.0,
+s166,TV Show,Title_166,France,2019,2019-05-07,PG-13,Drama,,1.0
+s312,TV Show,Title_312,United Kingdom,2017,2018-09-21,R,Kids,,6.0
+s315,Movie,Title_315,Germany,2022,2022-11-25,TV-MA,Documentary,96.0,
+s335,Movie,Title_335,India,2018,2020-06-20,TV-MA,Action,178.0,
+s126,Movie,Title_126,United Kingdom,2022,2023-09-25,TV-MA,Horror,116.0,
+s57,TV Show,Title_57,France,2021,2022-02-25,PG-13,Drama,,6.0
+s174,TV Show,Title_174,Japan,2022,2023-09-17,PG,Drama,,4.0
+s284,Movie,Title_284,Canada,2010,2012-10-06,R,Horror,164.0,
+s366,TV Show,Title_366,Canada,2020,2021-05-16,TV-14,Sci-Fi,,3.0
+s428,TV Show,Title_428,Spain,2022,2023-05-10,PG-13,Kids,,4.0
+s289,Movie,Title_289,Japan,2023,2024-12-09,TV-PG,Comedy,110.0,
+s518,Movie,Title_518,Canada,2018,2018-11-06,TV-MA,Kids,153.0,
+s274,TV Show,Title_274,Mexico,2015,2017-01-25,TV-14,Drama,,7.0
+s303,Movie,Title_303,Mexico,2009,2010-04-08,R,Kids,142.0,
+s687,Movie,Title_687,India,2017,2017-11-11,TV-14,Anime,112.0,
+s712,TV Show,Title_712,Canada,2014,2014-04-18,R,Romance,,3.0
+s112,TV Show,Title_112,Brazil,2018,2020-12-27,TV-MA,Sci-Fi,,8.0
+s476,Movie,Title_476,,2022,2024-06-09,R,Romance,140.0,
+s224,TV Show,Title_224,France,2024,2024-09-22,TV-Y,Comedy,,7.0
+s201,TV Show,Title_201,United States,2016,2017-05-18,TV-14,Drama,,8.0
+s107,Movie,Title_107,United States,2021,2023-04-12,TV-PG,Horror,150.0,
+s691,TV Show,Title_691,South Korea,2014,2014-10-16,TV-MA,Crime,,5.0
+s770,Movie,Title_770,Canada,2020,2022-12-21,TV-MA,Romance,119.0,
+s776,Movie,Title_776,South Korea,2018,2020-11-05,TV-14,Romance,140.0,
+s671,Movie,Title_671,Canada,2020,2020-08-19,G,Documentary,131.0,
+s605,Movie,Title_605,France,2015,2015-02-17,TV-Y,Anime,177.0,
+s499,Movie,Title_499,Spain,2024,2024-12-09,TV-MA,Crime,108.0,
+s52,Movie,Title_52,South Korea,2022,2024-11-10,TV-PG,Horror,174.0,
+s618,Movie,Title_618,France,2020,2020-08-01,TV-MA,Sci-Fi,85.0,
+s640,Movie,Title_640,India,2020,2022-10-09,TV-Y7,Documentary,144.0,
+s247,TV Show,Title_247,United Kingdom,2022,2022-11-08,TV-MA,Drama,,3.0
+s714,Movie,Title_714,South Korea,2017,2019-01-06,TV-14,Documentary,82.0,
+s19,Movie,Title_19,India,2022,2024-10-21,TV-14,Sci-Fi,109.0,
+s81,Movie,Title_81,United States,2023,2023-11-06,R,Thriller,134.0,
+s653,Movie,Title_653,Australia,2020,2022-12-22,TV-PG,Documentary,89.0,
+s655,Movie,Title_655,Brazil,2019,2019-12-12,TV-14,Romance,177.0,
+s602,TV Show,Title_602,Japan,2021,2022-06-07,PG,Sci-Fi,,2.0
+s502,Movie,Title_502,United Kingdom,2017,2017-08-19,TV-MA,Action,110.0,
+s318,Movie,Title_318,Mexico,2021,2023-04-13,R,Documentary,118.0,
+s535,Movie,Title_535,United States,2019,2020-01-05,TV-14,Drama,147.0,
+s297,Movie,Title_297,United Kingdom,2022,2024-01-02,TV-PG,Drama,99.0,
+s158,Movie,Title_158,United States,2019,2021-10-04,TV-MA,Horror,177.0,
+s184,Movie,Title_184,Brazil,2023,2024-10-08,PG-13,Documentary,151.0,
+s339,TV Show,Title_339,France,2021,2021-05-24,TV-Y,Action,,5.0
+s667,Movie,Title_667,India,2022,2023-06-27,TV-MA,Drama,123.0,
+s92,Movie,Title_92,United States,2022,2024-04-21,PG,Kids,173.0,
+s31,Movie,Title_31,United Kingdom,2019,2019-03-07,PG,Comedy,130.0,
+s488,Movie,Title_488,Mexico,2018,2020-01-21,TV-14,Action,60.0,
+s555,Movie,Title_555,India,2020,2020-01-22,TV-14,Thriller,136.0,
+s209,Movie,Title_209,Australia,2023,2024-12-25,TV-14,Thriller,61.0,
+s722,Movie,Title_722,India,2023,2024-01-05,TV-Y7,Kids,133.0,
+s760,TV Show,Title_760,United States,2021,2021-10-21,PG-13,Anime,,5.0
+s479,TV Show,Title_479,Japan,2023,2024-12-17,TV-MA,Crime,,1.0
+s282,TV Show,Title_282,United States,2019,2021-12-02,TV-MA,Thriller,,3.0
+s374,Movie,Title_374,Germany,2021,2022-03-10,TV-PG,Kids,76.0,
+s160,Movie,Title_160,Canada,2021,2023-12-02,PG-13,Kids,126.0,
+s236,TV Show,Title_236,Australia,2022,2022-07-17,TV-PG,Sci-Fi,,3.0
+s638,TV Show,Title_638,South Korea,2017,2019-04-15,PG-13,Crime,,2.0
+s442,Movie,Title_442,Canada,2022,2023-11-16,R,Comedy,117.0,
+s700,TV Show,Title_700,Germany,2024,2024-03-14,TV-MA,Romance,,8.0
+s511,Movie,Title_511,Mexico,2021,2023-01-27,TV-MA,Horror,133.0,
+s288,Movie,Title_288,Germany,2019,2019-04-10,TV-MA,Action,67.0,
+s131,Movie,Title_131,Australia,2011,2011-11-11,TV-14,Documentary,148.0,
+s132,Movie,Title_132,Spain,2015,2017-04-16,TV-MA,Romance,134.0,
+s306,TV Show,Title_306,Australia,2008,2009-12-14,TV-MA,Crime,,8.0
+s79,TV Show,Title_79,Spain,2022,2023-08-09,TV-PG,Crime,,3.0
+s629,TV Show,Title_629,Spain,2018,2019-10-19,TV-MA,Horror,,3.0
+s125,TV Show,Title_125,Spain,2021,2022-07-09,PG-13,Drama,,7.0
+s40,Movie,Title_40,Brazil,2022,2023-08-08,TV-14,Action,88.0,
+s469,Movie,Title_469,Canada,2014,2016-11-15,PG,Thriller,111.0,
+s309,TV Show,Title_309,Canada,2016,2016-03-09,PG,Documentary,,6.0
+s328,TV Show,Title_328,,2023,2023-04-17,TV-PG,Action,,6.0
+s356,TV Show,Title_356,Japan,2020,2021-02-20,PG-13,Sci-Fi,,5.0
+s596,Movie,Title_596,Germany,2016,2018-01-18,TV-MA,Romance,116.0,
+s301,TV Show,Title_301,Japan,2015,2016-03-24,G,Sci-Fi,,1.0
+s547,Movie,Title_547,United Kingdom,2022,2024-04-24,TV-MA,Drama,96.0,
+s416,Movie,Title_416,Canada,2024,2024-01-23,TV-14,Horror,98.0,
+s51,TV Show,Title_51,India,2018,2020-12-01,TV-PG,Crime,,8.0
+s313,Movie,Title_313,Spain,2015,2015-07-18,G,Action,143.0,
+s788,TV Show,Title_788,South Korea,2021,2021-03-18,PG,Comedy,,4.0
+s544,TV Show,Title_544,India,2016,2018-04-20,R,Kids,,1.0
+s41,Movie,Title_41,Germany,2020,2021-03-15,,Thriller,106.0,
+s443,Movie,Title_443,France,2020,2020-05-11,TV-MA,Kids,90.0,
+s168,Movie,Title_168,Mexico,2010,2012-01-01,,Drama,134.0,
+s127,Movie,Title_127,United Kingdom,2024,2024-12-22,TV-Y7,Thriller,124.0,
+s254,Movie,Title_254,Spain,2015,2017-12-19,PG-13,Romance,61.0,
+s739,Movie,Title_739,United Kingdom,2020,2021-03-09,G,Drama,67.0,
+s694,Movie,Title_694,Mexico,2019,2019-02-25,TV-MA,Action,171.0,
+s17,Movie,Title_17,Brazil,2020,2020-06-22,PG-13,Crime,75.0,
+s293,Movie,Title_293,France,2019,2019-08-08,TV-MA,Comedy,93.0,
+s274,TV Show,Title_274,Mexico,2015,2017-01-25,TV-14,Drama,,7.0
+s234,TV Show,Title_234,United Kingdom,2016,2018-01-26,R,Anime,,3.0
+s609,Movie,Title_609,Germany,2019,2020-11-01,TV-14,Documentary,91.0,
+s516,Movie,Title_516,Brazil,2019,2020-01-02,TV-MA,Sci-Fi,70.0,
+s431,Movie,Title_431,South Korea,2015,2016-05-12,TV-14,Sci-Fi,135.0,
+s42,Movie,Title_42,Canada,2012,2014-04-03,TV-Y,Horror,173.0,
+s447,TV Show,Title_447,Canada,2008,2008-12-19,TV-Y7,Anime,,2.0
+s110,Movie,Title_110,South Korea,2020,2021-09-21,TV-14,Anime,171.0,
+s597,Movie,Title_597,Spain,2024,2024-01-11,PG-13,Romance,106.0,
+s610,Movie,Title_610,Spain,2017,2019-06-05,TV-14,Thriller,108.0,
+s575,Movie,Title_575,United Kingdom,2008,2009-04-23,PG-13,Documentary,122.0,
+s567,Movie,Title_567,Canada,2014,2014-05-04,TV-PG,Crime,176.0,
+s36,Movie,Title_36,United Kingdom,2016,2017-08-08,TV-14,Action,75.0,
+s246,Movie,Title_246,Canada,2013,2015-10-21,TV-PG,Horror,85.0,
+s690,Movie,Title_690,South Korea,2018,2019-07-03,TV-MA,Drama,76.0,
+s608,Movie,Title_608,Germany,2020,2021-09-18,PG,Documentary,170.0,
+s393,Movie,Title_393,United States,2024,2024-10-01,R,Comedy,155.0,
+s346,Movie,Title_346,Mexico,2008,2008-03-10,R,Comedy,90.0,
+s631,Movie,Title_631,United Kingdom,2022,2023-02-25,TV-PG,Crime,72.0,
+s295,Movie,Title_295,Mexico,2020,2022-12-08,R,Documentary,62.0,
+s757,TV Show,Title_757,United Kingdom,2020,2022-09-14,TV-14,Documentary,,1.0
+s707,TV Show,Title_707,Germany,2024,2024-10-24,TV-Y7,Documentary,,6.0
+s405,Movie,Title_405,India,2021,2021-04-21,PG,Crime,131.0,
+s59,Movie,Title_59,Canada,2017,2017-01-02,TV-MA,Romance,106.0,
+s588,Movie,Title_588,Canada,2023,2024-03-15,G,Romance,126.0,
+s537,Movie,Title_537,Brazil,2023,2023-08-21,,Horror,71.0,
+s705,TV Show,Title_705,Japan,2021,2023-09-11,TV-14,Horror,,4.0
+s731,Movie,Title_731,Canada,2023,2023-02-24,PG,Horror,104.0,
+s33,Movie,Title_33,United Kingdom,2022,2024-03-27,TV-14,Horror,116.0,
+s600,Movie,Title_600,Brazil,2023,2024-01-06,TV-PG,Horror,137.0,
+s366,TV Show,Title_366,Canada,2020,2021-05-16,TV-14,Sci-Fi,,3.0
+s685,Movie,Title_685,United Kingdom,2015,2017-08-06,TV-Y,Documentary,130.0,
+s414,Movie,Title_414,Canada,2022,2023-05-16,TV-14,Romance,156.0,
+s662,Movie,Title_662,Canada,2010,2012-10-18,TV-MA,Horror,166.0,
+s343,TV Show,Title_343,Brazil,2023,2024-01-01,TV-14,Horror,,4.0
+s84,Movie,Title_84,United Kingdom,2015,2017-05-25,G,Horror,97.0,
+s90,Movie,Title_90,Australia,2023,2024-03-06,TV-MA,Crime,169.0,
+s792,Movie,Title_792,Brazil,2014,2015-06-25,TV-14,Thriller,155.0,
+s522,Movie,Title_522,France,2024,2024-01-07,TV-MA,Kids,61.0,
+s745,Movie,Title_745,Spain,2024,2024-02-02,TV-MA,Anime,127.0,
+s186,Movie,Title_186,United Kingdom,2021,2022-12-20,TV-14,Anime,87.0,
+s177,TV Show,Title_177,Mexico,2022,2024-08-01,TV-PG,Sci-Fi,,8.0
+s682,Movie,Title_682,Brazil,2013,2013-07-08,,Action,124.0,
+s195,TV Show,Title_195,Japan,2021,2021-10-07,PG,Kids,,6.0
+s164,Movie,Title_164,France,2022,2023-09-27,TV-MA,Anime,127.0,
+s617,Movie,Title_617,Japan,2022,2022-11-26,TV-Y,Romance,95.0,
+s737,Movie,Title_737,United States,2024,2024-01-12,TV-14,Thriller,123.0,
+s333,Movie,Title_333,Canada,2023,2023-07-13,PG-13,Action,81.0,
+s211,Movie,Title_211,South Korea,2017,2019-10-05,TV-14,Documentary,147.0,
+s569,Movie,Title_569,Brazil,2024,2024-08-08,PG,Kids,125.0,
+s77,Movie,Title_77,United States,2023,2024-11-14,TV-14,Anime,167.0,
+s639,TV Show,Title_639,Australia,2018,2018-09-24,TV-MA,Kids,,2.0
+s711,TV Show,Title_711,South Korea,2020,2020-08-19,TV-14,Documentary,,6.0
+s307,Movie,Title_307,Mexico,2008,2009-06-04,PG-13,Action,93.0,
+s94,Movie,Title_94,Japan,2023,2023-11-07,TV-MA,Horror,144.0,
+s584,Movie,Title_584,Japan,2008,2008-04-08,TV-MA,Sci-Fi,154.0,
+s722,Movie,Title_722,India,2023,2024-01-05,TV-Y7,Kids,133.0,
+s375,TV Show,Title_375,Japan,2024,2024-02-19,TV-MA,Sci-Fi,,6.0
+s777,TV Show,Title_777,Canada,2015,2017-04-23,G,Sci-Fi,,6.0
+s1,TV Show,Title_1,Canada,2009,2009-11-05,PG-13,Kids,,6.0
+s582,TV Show,Title_582,Spain,2018,2020-02-02,TV-14,Sci-Fi,,4.0
+s388,TV Show,Title_388,Japan,2023,2023-03-02,PG,Thriller,,7.0
+s205,Movie,Title_205,France,2020,2020-11-06,TV-MA,Drama,77.0,
+s182,Movie,Title_182,Canada,2016,2016-02-08,TV-14,Kids,153.0,
+s734,Movie,Title_734,India,2019,2019-02-24,TV-MA,Action,121.0,
+s219,TV Show,Title_219,United States,2019,2019-04-06,TV-14,Action,,8.0
+s697,TV Show,Title_697,Japan,2020,2020-07-20,TV-Y,Comedy,,4.0
+s330,Movie,Title_330,France,2017,2018-11-14,R,Horror,155.0,
+s493,Movie,Title_493,United Kingdom,2019,2020-08-26,TV-PG,Documentary,139.0,
+s758,Movie,Title_758,South Korea,2021,2021-04-02,TV-MA,Action,106.0,
+s93,Movie,Title_93,France,2015,2017-12-18,TV-Y,Comedy,122.0,
+s590,Movie,Title_590,Canada,2023,2024-12-22,TV-PG,Comedy,63.0,
+s470,Movie,Title_470,India,2020,2022-04-13,R,Sci-Fi,148.0,
+s574,Movie,Title_574,Canada,2024,2024-11-15,TV-MA,Anime,162.0,
+s80,TV Show,Title_80,Australia,2016,2018-04-17,R,Sci-Fi,,2.0
+s510,Movie,Title_510,United Kingdom,2019,2019-12-27,R,Crime,138.0,
+s593,TV Show,Title_593,France,2019,2021-01-19,TV-14,Documentary,,3.0
+s526,Movie,Title_526,Mexico,2022,2023-07-03,TV-MA,Sci-Fi,168.0,
+s285,Movie,Title_285,South Korea,2024,2024-10-09,TV-14,Comedy,83.0,
+s163,TV Show,Title_163,Mexico,2024,2024-08-20,TV-MA,Crime,,8.0
+s507,TV Show,Title_507,Japan,2014,2015-05-10,PG-13,Horror,,8.0
+s251,TV Show,Title_251,Mexico,2023,2023-05-03,PG-13,Anime,,7.0
+s385,Movie,Title_385,South Korea,2019,2019-03-16,TV-MA,Crime,169.0,
+s225,Movie,Title_225,Japan,2017,2018-08-15,TV-MA,Romance,64.0,
+s403,TV Show,Title_403,India,2024,2024-04-20,TV-PG,Anime,,2.0
+s659,Movie,Title_659,Canada,2018,2019-09-07,TV-MA,Crime,106.0,
+s354,Movie,Title_354,United Kingdom,2023,2023-11-11,TV-14,Horror,133.0,
+s421,Movie,Title_421,Canada,2009,2010-01-13,TV-MA,Documentary,100.0,
+s752,Movie,Title_752,France,2019,2020-01-18,TV-PG,Comedy,178.0,
+s329,Movie,Title_329,South Korea,2022,2024-10-04,TV-14,Anime,163.0,
+s563,Movie,Title_563,Germany,2017,2019-06-22,TV-14,Comedy,122.0,
+s412,TV Show,Title_412,South Korea,2023,2024-06-16,TV-14,Crime,,3.0
+s472,TV Show,Title_472,India,2020,2020-10-14,TV-Y7,Horror,,3.0
+s509,Movie,Title_509,South Korea,2021,2021-01-05,TV-MA,Thriller,94.0,
+s726,Movie,Title_726,Germany,2020,2021-05-13,TV-MA,Documentary,171.0,
+s532,Movie,Title_532,France,2019,2021-09-01,TV-MA,Kids,77.0,
+s651,TV Show,Title_651,Australia,2020,2022-01-06,TV-MA,Anime,,4.0
+s740,TV Show,Title_740,South Korea,2015,2017-04-25,TV-14,Drama,,3.0
+s487,Movie,Title_487,Germany,2024,2024-06-16,TV-PG,Action,149.0,
+s513,Movie,Title_513,Australia,2018,2020-09-08,TV-MA,Crime,172.0,
+s654,Movie,Title_654,Germany,2024,2024-05-23,TV-14,Documentary,81.0,
+s396,TV Show,Title_396,South Korea,2023,2023-02-24,TV-PG,Romance,,5.0
+s373,Movie,Title_373,United States,2016,2016-07-11,R,Action,101.0,
+s67,Movie,Title_67,Spain,2019,2019-12-26,TV-PG,Sci-Fi,155.0,
+s781,TV Show,Title_781,United States,2023,2024-07-26,TV-14,Thriller,,2.0
+s336,Movie,Title_336,South Korea,2009,2011-06-03,TV-MA,Drama,105.0,
+s632,Movie,Title_632,Germany,2017,2019-02-17,TV-MA,Anime,176.0,
+s440,TV Show,Title_440,Japan,2019,2019-10-01,R,Kids,,3.0
+s601,TV Show,Title_601,Spain,2021,2022-09-22,TV-MA,Anime,,8.0
+s9,Movie,Title_9,Australia,2020,2021-08-15,G,Sci-Fi,101.0,
+s109,Movie,Title_109,United Kingdom,2021,2022-12-04,TV-MA,Crime,133.0,
+s633,Movie,Title_633,United Kingdom,2024,2024-11-02,TV-PG,Thriller,147.0,
+s541,TV Show,Title_541,India,2023,2024-04-08,PG-13,Documentary,,5.0
+s58,Movie,Title_58,France,2023,2024-01-19,R,Documentary,143.0,
+s438,Movie,Title_438,Australia,2021,2021-06-25,TV-MA,Anime,148.0,
+s275,TV Show,Title_275,United Kingdom,2023,2023-08-19,PG-13,Drama,,4.0
+s749,Movie,Title_749,Japan,2015,2017-06-02,TV-14,Anime,158.0,
+s579,TV Show,Title_579,United States,2022,2024-04-22,PG-13,Action,,7.0
+s652,Movie,Title_652,India,2021,2022-06-20,TV-MA,Thriller,145.0,
+s152,TV Show,Title_152,Canada,2023,2023-09-02,TV-14,Drama,,7.0
+s524,Movie,Title_524,Canada,2021,2023-07-20,TV-PG,Documentary,81.0,
+s675,Movie,Title_675,United Kingdom,2020,2020-10-15,TV-MA,Action,176.0,
+s6,Movie,Title_6,France,2021,2023-12-17,PG-13,Kids,143.0,
+s720,TV Show,Title_720,United States,2012,2013-11-13,PG-13,Action,,4.0
+s26,TV Show,Title_26,Japan,2019,2021-11-06,PG-13,Anime,,8.0
+s505,TV Show,Title_505,Japan,2019,2021-07-22,TV-14,Action,,7.0
+s65,Movie,Title_65,Spain,2021,2021-04-08,TV-14,Thriller,80.0,
+s674,TV Show,Title_674,Brazil,2018,2020-12-14,PG,Thriller,,7.0
+s264,Movie,Title_264,South Korea,2021,2021-09-20,TV-14,Kids,88.0,
+s245,TV Show,Title_245,Japan,2019,2019-09-08,TV-MA,Drama,,7.0
+s410,TV Show,Title_410,Spain,2022,2024-02-18,TV-14,Drama,,7.0
+s320,Movie,Title_320,Germany,2019,2019-02-04,R,Horror,179.0,
+s392,Movie,Title_392,South Korea,2009,2011-08-16,TV-MA,Sci-Fi,140.0,
+s721,TV Show,Title_721,United States,2019,2020-03-06,R,Documentary,,3.0
+s465,Movie,Title_465,Brazil,2024,2024-06-14,G,Action,111.0,
+s548,Movie,Title_548,Germany,2023,2024-02-17,TV-14,Comedy,121.0,
+s13,TV Show,Title_13,Brazil,2024,2024-02-16,TV-14,Horror,,4.0
+s669,Movie,Title_669,Australia,2019,2020-07-19,PG-13,Sci-Fi,73.0,
+s717,Movie,Title_717,United Kingdom,2022,2024-05-09,TV-MA,Anime,103.0,
+s54,TV Show,Title_54,Canada,2018,2019-12-04,R,Crime,,7.0
+s121,Movie,Title_121,Spain,2023,2023-01-18,TV-PG,Kids,148.0,
+s603,TV Show,Title_603,Canada,2018,2019-07-03,R,Anime,,6.0
+s176,Movie,Title_176,Australia,2021,2023-01-19,TV-MA,Drama,157.0,
+s21,TV Show,Title_21,Australia,2019,2021-05-19,G,Sci-Fi,,8.0
+s559,Movie,Title_559,United States,2009,2010-03-05,TV-PG,Drama,134.0,
+s16,Movie,Title_16,France,2018,2019-05-22,TV-14,Sci-Fi,159.0,
+s304,Movie,Title_304,India,2023,2023-02-18,TV-MA,Documentary,61.0,
+s663,Movie,Title_663,Canada,2024,2024-11-01,TV-MA,Anime,87.0,
+s445,Movie,Title_445,France,2022,2024-08-15,TV-14,Documentary,131.0,
+s359,Movie,Title_359,France,2016,2018-10-16,TV-PG,Romance,96.0,
+s558,Movie,Title_558,Germany,2022,2023-10-07,TV-Y7,Thriller,64.0,
+s619,Movie,Title_619,India,2017,2017-05-26,TV-MA,Thriller,118.0,
+s146,TV Show,Title_146,Canada,2020,2022-12-09,TV-MA,Kids,,6.0
+s194,Movie,Title_194,Spain,2021,2021-02-16,TV-Y,Action,63.0,
+s2,Movie,Title_2,Canada,2024,2024-11-24,TV-14,Documentary,99.0,
+s266,TV Show,Title_266,Mexico,2022,2024-05-09,PG-13,Documentary,,7.0
+s684,Movie,Title_684,India,2022,2023-02-22,TV-MA,Sci-Fi,128.0,
+s308,Movie,Title_308,India,2021,2021-09-22,G,Romance,152.0,
+s367,Movie,Title_367,South Korea,2021,2021-02-03,TV-PG,Romance,159.0,
+s650,TV Show,Title_650,Japan,2009,2010-01-13,PG-13,Thriller,,7.0
+s434,Movie,Title_434,South Korea,2008,2009-06-10,TV-14,Crime,125.0,
+s692,Movie,Title_692,France,2016,2018-08-20,TV-14,Anime,143.0,
+s208,TV Show,Title_208,South Korea,2021,2022-10-05,PG-13,Drama,,8.0
+s762,Movie,Title_762,United States,2019,2021-02-25,PG-13,Horror,149.0,
+s349,Movie,Title_349,Germany,2023,2023-05-23,TV-MA,Kids,105.0,
+s554,Movie,Title_554,France,2019,2020-10-13,TV-14,Romance,143.0,
+s34,Movie,Title_34,Brazil,2008,2010-09-04,R,Documentary,71.0,
+s189,Movie,Title_189,Australia,2015,2017-05-22,PG-13,Documentary,161.0,
+s150,Movie,Title_150,South Korea,2019,2021-11-23,TV-MA,Crime,158.0,
+s430,Movie,Title_430,United States,2012,2012-03-03,TV-MA,Comedy,114.0,
+s747,TV Show,Title_747,Canada,2015,2016-01-24,PG-13,Drama,,2.0
+s149,Movie,Title_149,United States,2021,2023-09-07,TV-14,Documentary,150.0,
+s517,TV Show,Title_517,Germany,2021,2021-04-26,TV-14,Horror,,4.0
+s673,Movie,Title_673,South Korea,2022,2022-06-22,TV-MA,Horror,99.0,
+s559,Movie,Title_559,United States,2009,2010-03-05,TV-PG,Drama,134.0,
+s181,Movie,Title_181,Germany,2023,2024-09-06,TV-MA,Romance,77.0,
+s117,TV Show,Title_117,Mexico,2022,2023-04-10,TV-MA,Thriller,,5.0
+s626,Movie,Title_626,France,2021,2022-08-03,TV-MA,Crime,94.0,
+s257,Movie,Title_257,South Korea,2015,2017-02-22,TV-MA,Drama,108.0,
+s331,TV Show,Title_331,United Kingdom,2013,2014-12-19,TV-MA,Documentary,,4.0
+s503,Movie,Title_503,Australia,2015,2015-03-11,PG-13,Sci-Fi,167.0,
+s642,Movie,Title_642,Brazil,2023,2023-07-13,G,Horror,82.0,
+s75,TV Show,Title_75,India,2016,2018-09-10,TV-MA,Sci-Fi,,4.0
+s539,Movie,Title_539,Australia,2024,2024-12-08,TV-MA,Crime,162.0,
+s723,TV Show,Title_723,Australia,2022,2024-03-16,TV-MA,Anime,,5.0
+s220,Movie,Title_220,India,2023,2023-02-12,PG-13,Sci-Fi,144.0,
+s540,Movie,Title_540,India,2023,2024-12-05,PG,Crime,166.0,
+s399,TV Show,Title_399,Japan,2015,2016-12-27,TV-MA,Action,,7.0
+s28,Movie,Title_28,Australia,2015,2016-01-20,TV-14,Comedy,115.0,
+s273,Movie,Title_273,Mexico,2014,2014-01-04,TV-MA,Horror,144.0,
+s229,Movie,Title_229,South Korea,2016,2016-07-08,TV-14,Crime,158.0,
+s23,TV Show,Title_23,Spain,2019,2021-11-16,PG-13,Thriller,,2.0
+s546,TV Show,Title_546,South Korea,2021,2021-11-18,PG-13,Horror,,5.0
+s456,Movie,Title_456,United States,2024,2024-03-26,TV-Y7,Comedy,133.0,
+s351,Movie,Title_351,,2019,2021-04-25,R,Crime,94.0,
+s533,TV Show,Title_533,Mexico,2012,2014-02-10,TV-MA,Kids,,8.0
+s699,TV Show,Title_699,South Korea,2014,2014-10-27,PG,Romance,,6.0
+s787,Movie,Title_787,Spain,2020,2021-09-18,PG-13,Action,131.0,
+s432,Movie,Title_432,Mexico,2023,2023-01-01,TV-14,Comedy,77.0,
+s371,Movie,Title_371,Germany,2011,2012-09-23,TV-MA,Horror,109.0,
+s64,Movie,Title_64,Australia,2019,2019-07-22,TV-14,Thriller,122.0,
+s689,TV Show,Title_689,Japan,2022,2023-06-21,R,Kids,,2.0
+s197,Movie,Title_197,South Korea,2021,2022-12-13,R,Comedy,85.0,
+s463,Movie,Title_463,Australia,2020,2021-01-11,TV-MA,Action,109.0,
+s241,Movie,Title_241,Canada,2018,2018-10-03,R,Drama,107.0,
+s299,TV Show,Title_299,Japan,2017,2017-02-19,G,Kids,,2.0
+s568,Movie,Title_568,South Korea,2023,2024-01-06,TV-14,Documentary,122.0,
+s214,Movie,Title_214,Australia,2015,2016-12-21,PG-13,Comedy,100.0,
+s557,Movie,Title_557,India,2020,2020-08-08,TV-MA,Horror,143.0,
+s108,Movie,Title_108,Germany,2008,2009-05-15,G,Drama,80.0,
+s61,Movie,Title_61,Brazil,2024,2024-08-15,TV-MA,Romance,140.0,
+s586,Movie,Title_586,United Kingdom,2024,2024-03-10,TV-Y,Action,122.0,
+s491,TV Show,Title_491,South Korea,2019,2021-04-13,G,Crime,,3.0
+s710,Movie,Title_710,Canada,2018,2020-07-21,R,Romance,123.0,
+s698,TV Show,Title_698,Canada,2008,2009-09-05,R,Drama,,3.0
+s402,Movie,Title_402,India,2024,2024-09-01,TV-MA,Drama,147.0,
+s676,Movie,Title_676,Japan,2019,2020-12-18,TV-PG,Documentary,86.0,
+s429,TV Show,Title_429,South Korea,2022,2023-11-21,TV-14,Kids,,7.0
+s235,TV Show,Title_235,Spain,2008,2010-11-01,R,Documentary,,2.0
+s422,Movie,Title_422,Canada,2020,2021-06-06,TV-MA,Sci-Fi,159.0,
+s368,TV Show,Title_368,Germany,2024,2024-04-03,R,Kids,,1.0
+s791,Movie,Title_791,United States,2020,2020-04-24,PG-13,Romance,124.0,
+s147,Movie,Title_147,Germany,2016,2017-10-20,TV-14,Comedy,155.0,
+s66,TV Show,Title_66,Spain,2020,2022-09-17,R,Horror,,6.0
+s550,Movie,Title_550,United Kingdom,2017,2019-01-01,R,Kids,98.0,
+s591,Movie,Title_591,Australia,2014,2015-11-22,TV-Y,Action,102.0,
+s478,Movie,Title_478,Japan,2021,2023-07-04,TV-MA,Horror,118.0,
+s142,Movie,Title_142,South Korea,2016,2017-03-11,TV-MA,Comedy,166.0,
+s437,Movie,Title_437,Mexico,2019,2020-03-25,PG,Sci-Fi,127.0,
+s265,Movie,Title_265,Canada,2016,2017-11-07,TV-PG,Documentary,173.0,
+s761,Movie,Title_761,France,2019,2020-11-23,TV-PG,Thriller,132.0,
+s85,TV Show,Title_85,Canada,2017,2018-02-14,TV-14,Crime,,5.0
+s765,Movie,Title_765,Brazil,2019,2019-04-11,PG-13,Kids,147.0,
+s611,Movie,Title_611,Mexico,2023,2023-02-08,TV-MA,Documentary,100.0,
+s159,Movie,Title_159,,2020,2021-10-18,PG-13,Kids,89.0,
+s347,Movie,Title_347,India,2021,2021-12-14,TV-MA,Horror,160.0,
+s233,Movie,Title_233,Australia,2019,2020-11-05,TV-MA,Thriller,70.0,
+s369,TV Show,Title_369,United Kingdom,2021,2021-07-27,TV-MA,Sci-Fi,,3.0
+s391,Movie,Title_391,United Kingdom,2022,2022-07-15,TV-14,Action,72.0,
+s147,Movie,Title_147,Germany,2016,2017-10-20,TV-14,Comedy,155.0,
+s628,Movie,Title_628,Brazil,2017,2017-07-11,TV-MA,Action,160.0,
+s473,TV Show,Title_473,Germany,2020,2022-02-25,TV-PG,Horror,,3.0
+s183,TV Show,Title_183,Spain,2019,2019-07-13,TV-PG,Horror,,3.0
+s91,Movie,Title_91,,2018,2018-09-07,R,Comedy,154.0,
+s538,TV Show,Title_538,India,2022,2024-01-10,TV-MA,Anime,,2.0
+s123,TV Show,Title_123,Mexico,2021,2022-09-10,TV-MA,Kids,,8.0
+s192,Movie,Title_192,Japan,2021,2022-06-11,TV-PG,Crime,157.0,
+s627,Movie,Title_627,Spain,2018,2020-12-22,R,Action,71.0,
+s237,Movie,Title_237,France,2011,2011-09-07,PG,Comedy,74.0,
+s798,Movie,Title_798,Brazil,2019,2019-10-06,TV-14,Crime,112.0,
+s504,Movie,Title_504,Canada,2008,2010-07-02,G,Kids,78.0,
+s553,Movie,Title_553,India,2022,2024-05-01,TV-MA,Kids,121.0,
+s763,TV Show,Title_763,Canada,2019,2021-02-16,TV-MA,Horror,,8.0
+s314,Movie,Title_314,United States,2019,2020-08-09,TV-MA,Kids,174.0,
+s543,Movie,Title_543,Mexico,2021,2021-07-07,TV-MA,Horror,162.0,
+s709,TV Show,Title_709,Spain,2010,2010-07-17,TV-MA,Thriller,,2.0
+s512,Movie,Title_512,Japan,2024,2024-08-15,TV-MA,Romance,62.0,
+s768,TV Show,Title_768,India,2015,2015-08-19,TV-MA,Romance,,2.0
+s486,TV Show,Title_486,India,2020,2021-06-10,TV-14,Sci-Fi,,7.0
+s521,Movie,Title_521,Canada,2021,2022-10-13,PG,Crime,118.0,
+s460,Movie,Title_460,Germany,2019,2020-05-14,TV-MA,Drama,100.0,
+s666,TV Show,Title_666,Japan,2019,2021-08-18,PG,Drama,,3.0
+s409,Movie,Title_409,United Kingdom,2021,2021-08-16,TV-MA,Horror,120.0,
+s746,Movie,Title_746,United Kingdom,2020,2021-07-18,,Anime,163.0,
+s583,Movie,Title_583,Australia,2013,2014-02-03,R,Horror,148.0,
+s104,TV Show,Title_104,Spain,2023,2024-07-03,TV-MA,Drama,,1.0
+s353,TV Show,Title_353,Australia,2024,2024-01-15,R,Drama,,4.0
+s136,Movie,Title_136,Australia,2018,2019-11-09,TV-MA,Horror,70.0,
+s701,Movie,Title_701,South Korea,2012,2013-03-25,TV-MA,Action,99.0,
+s580,Movie,Title_580,Germany,2023,2024-02-25,R,Action,127.0,
+s620,Movie,Title_620,United States,2021,2021-01-27,TV-PG,Drama,109.0,
+s261,Movie,Title_261,France,2020,2020-02-24,TV-PG,Crime,72.0,
+s128,Movie,Title_128,India,2023,2024-05-22,PG,Horror,62.0,
+s398,Movie,Title_398,Germany,2017,2018-08-04,,Drama,88.0,
+s450,Movie,Title_450,South Korea,2019,2019-04-14,TV-14,Romance,158.0,
+s500,Movie,Title_500,Mexico,2018,2018-10-19,TV-MA,Thriller,168.0,
+s793,Movie,Title_793,Mexico,2021,2021-08-26,TV-14,Drama,66.0,
+s797,TV Show,Title_797,Germany,2024,2024-06-20,R,Action,,8.0
+s187,TV Show,Title_187,Australia,2019,2020-04-20,TV-PG,Crime,,7.0
+s623,Movie,Title_623,Brazil,2024,2024-05-21,TV-14,Anime,151.0,
+s753,Movie,Title_753,Mexico,2023,2024-01-22,PG,Drama,78.0,
+s624,Movie,Title_624,,2022,2022-07-16,TV-Y7,Romance,146.0,
+s196,Movie,Title_196,United Kingdom,2024,2024-06-12,TV-14,Romance,78.0,
+s444,TV Show,Title_444,Canada,2014,2014-04-16,TV-PG,Sci-Fi,,7.0
+s678,Movie,Title_678,Mexico,2016,2017-09-07,TV-MA,Comedy,66.0,
+s259,TV Show,Title_259,Japan,2023,2024-03-08,R,Documentary,,7.0
+s120,Movie,Title_120,Japan,2024,2024-07-08,PG-13,Horror,162.0,
+s530,Movie,Title_530,South Korea,2011,2011-12-27,TV-Y7,Crime,84.0,
+s480,TV Show,Title_480,India,2022,2022-12-15,R,Anime,,8.0
+s545,Movie,Title_545,Brazil,2022,2022-01-10,TV-MA,Sci-Fi,158.0,
+s440,TV Show,Title_440,Japan,2019,2019-10-01,R,Kids,,3.0
+s496,TV Show,Title_496,Canada,2022,2024-10-22,TV-14,Documentary,,1.0
+s283,TV Show,Title_283,France,2023,2023-08-04,TV-MA,Documentary,,3.0
+s191,Movie,Title_191,South Korea,2012,2014-12-02,TV-14,Anime,85.0,
+s408,Movie,Title_408,South Korea,2021,2022-05-07,TV-14,Crime,146.0,
+s501,Movie,Title_501,United Kingdom,2012,2012-01-26,TV-Y,Comedy,78.0,
+s72,Movie,Title_72,India,2022,2022-01-08,TV-MA,Comedy,97.0,
+s97,Movie,Title_97,United Kingdom,2023,2023-06-01,TV-MA,Crime,179.0,
+s579,TV Show,Title_579,United States,2022,2024-04-22,PG-13,Action,,7.0
+s222,Movie,Title_222,Brazil,2018,2019-02-10,PG,Documentary,179.0,
+s622,Movie,Title_622,Japan,2018,2018-05-17,TV-14,Comedy,119.0,
+s783,Movie,Title_783,France,2020,2020-06-07,R,Romance,91.0,
+s48,Movie,Title_48,Japan,2023,2024-04-03,PG-13,Action,66.0,
+s677,Movie,Title_677,Canada,2020,2020-05-08,TV-14,Thriller,133.0,
+s204,TV Show,Title_204,Australia,2015,2017-11-10,PG,Anime,,7.0
+s719,TV Show,Title_719,France,2021,2021-11-21,TV-14,Comedy,,4.0
+s380,Movie,Title_380,Germany,2013,2014-06-13,PG,Horror,65.0,
+s489,Movie,Title_489,Mexico,2022,2024-11-14,TV-14,Sci-Fi,95.0,
+s594,Movie,Title_594,Brazil,2023,2024-03-03,TV-14,Comedy,104.0,
+s466,TV Show,Title_466,Japan,2020,2020-07-10,TV-14,Comedy,,5.0
+s280,TV Show,Title_280,Brazil,2024,2024-08-12,,Romance,,8.0
+s4,Movie,Title_4,United Kingdom,2020,2020-07-15,TV-PG,Action,130.0,
+s708,TV Show,Title_708,Canada,2023,2023-10-22,TV-MA,Comedy,,2.0
+s607,Movie,Title_607,Canada,2023,2023-12-03,R,Comedy,115.0,
+s412,TV Show,Title_412,South Korea,2023,2024-06-16,TV-14,Crime,,3.0
+s135,Movie,Title_135,South Korea,2022,2022-05-23,TV-14,Comedy,174.0,
+s16,Movie,Title_16,France,2018,2019-05-22,TV-14,Sci-Fi,159.0,
+s69,TV Show,Title_69,India,2014,2015-08-08,TV-14,Drama,,6.0
+s74,Movie,Title_74,Mexico,2019,2020-11-19,TV-14,Romance,167.0,
+s45,Movie,Title_45,Japan,2024,2024-07-14,TV-14,Romance,162.0,
+s290,TV Show,Title_290,Spain,2021,2022-06-07,TV-14,Sci-Fi,,1.0
+s715,Movie,Title_715,Spain,2022,2023-03-06,TV-14,Horror,178.0,
+s630,Movie,Title_630,Germany,2010,2012-11-22,TV-PG,Comedy,126.0,
+s98,Movie,Title_98,Australia,2019,2019-02-18,PG,Horror,61.0,
+s780,Movie,Title_780,South Korea,2021,2023-06-07,TV-MA,Documentary,70.0,
+s250,TV Show,Title_250,Japan,2023,2023-02-12,TV-14,Horror,,4.0
+s56,TV Show,Title_56,United Kingdom,2023,2023-04-09,R,Crime,,5.0
+s110,Movie,Title_110,South Korea,2020,2021-09-21,TV-14,Anime,171.0,
+s71,TV Show,Title_71,Canada,2016,2018-10-02,TV-PG,Kids,,3.0
+s525,Movie,Title_525,Brazil,2020,2022-06-27,TV-MA,Kids,127.0,
+s384,TV Show,Title_384,Canada,2022,2023-12-19,TV-MA,Horror,,6.0
+s60,Movie,Title_60,United Kingdom,2023,2024-01-12,TV-14,Drama,60.0,
+s372,Movie,Title_372,Germany,2022,2023-12-03,PG-13,Anime,162.0,
+s741,TV Show,Title_741,Spain,2023,2024-09-20,R,Anime,,1.0
+s190,Movie,Title_190,United Kingdom,2009,2010-10-08,R,Thriller,142.0,
+s462,Movie,Title_462,Mexico,2024,2024-11-20,TV-MA,Romance,177.0,
+s231,Movie,Title_231,France,2024,2024-06-08,TV-MA,Kids,135.0,
+s766,Movie,Title_766,United States,2016,2017-06-15,PG,Anime,149.0,
+s751,Movie,Title_751,Japan,2018,2019-09-05,TV-14,Crime,161.0,
+s585,Movie,Title_585,France,2008,2009-07-02,TV-MA,Horror,139.0,
+s5,Movie,Title_5,Australia,2016,2016-10-09,PG-13,Comedy,162.0,
+s523,Movie,Title_523,India,2015,2016-10-17,PG,Thriller,84.0,
+s101,Movie,Title_101,South Korea,2024,2024-04-03,TV-MA,Crime,90.0,
+s228,Movie,Title_228,France,2019,2021-11-06,TV-MA,Comedy,106.0,
+s38,Movie,Title_38,Brazil,2023,2024-11-22,R,Anime,61.0,
+s73,Movie,Title_73,,2020,2021-05-08,TV-MA,Anime,68.0,
+s139,Movie,Title_139,United Kingdom,2015,2017-09-27,TV-14,Anime,74.0,
+s641,TV Show,Title_641,Brazil,2023,2024-05-08,G,Anime,,5.0
+s44,TV Show,Title_44,Japan,2020,2021-02-01,TV-MA,Anime,,2.0
+s370,Movie,Title_370,South Korea,2016,2018-11-19,TV-Y,Crime,164.0,
+s130,TV Show,Title_130,France,2013,2013-11-09,TV-Y,Sci-Fi,,6.0
+s401,Movie,Title_401,United Kingdom,2023,2024-12-21,TV-14,Crime,71.0,
+s155,TV Show,Title_155,Australia,2020,2021-03-11,TV-PG,Crime,,6.0
+s277,TV Show,Title_277,Spain,2020,2021-04-10,TV-MA,Documentary,,3.0
+s729,Movie,Title_729,United Kingdom,2018,2019-12-22,TV-MA,Comedy,78.0,
+s214,Movie,Title_214,Australia,2015,2016-12-21,PG-13,Comedy,100.0,
+s595,Movie,Title_595,India,2015,2017-05-22,PG-13,Kids,114.0,
+s772,TV Show,Title_772,Mexico,2023,2023-03-13,R,Anime,,5.0
+s252,Movie,Title_252,Japan,2023,2023-11-12,TV-MA,Comedy,151.0,
+s239,TV Show,Title_239,Brazil,2022,2024-11-02,PG,Comedy,,3.0
+s255,TV Show,Title_255,India,2021,2023-12-12,TV-14,Comedy,,1.0
+s794,Movie,Title_794,,2017,2017-08-06,R,Sci-Fi,136.0,
+s319,TV Show,Title_319,United States,2024,2024-04-25,TV-14,Drama,,4.0
+s267,TV Show,Title_267,Australia,2022,2023-05-03,TV-14,Comedy,,3.0
+s533,TV Show,Title_533,Mexico,2012,2014-02-10,TV-MA,Kids,,8.0
+s679,Movie,Title_679,Canada,2015,2016-09-16,R,Documentary,178.0,
+s96,TV Show,Title_96,United Kingdom,2019,2021-09-14,TV-PG,Romance,,6.0
+s718,TV Show,Title_718,Mexico,2023,2024-04-20,R,Action,,1.0
+s764,Movie,Title_764,South Korea,2023,2024-03-07,TV-14,Action,174.0,
+s616,Movie,Title_616,France,2015,2017-01-20,TV-MA,Sci-Fi,148.0,
+s68,Movie,Title_68,,2023,2024-12-15,TV-MA,Drama,74.0,
+s279,Movie,Title_279,Mexico,2010,2010-11-09,,Anime,167.0,
+s310,Movie,Title_310,United States,2018,2018-11-08,TV-MA,Drama,175.0,
+s70,Movie,Title_70,Japan,2020,2022-02-06,TV-PG,Horror,174.0,
+s345,Movie,Title_345,Canada,2022,2022-07-07,TV-14,Drama,69.0,
+s102,TV Show,Title_102,Spain,2024,2024-08-24,PG-13,Anime,,5.0
+s154,Movie,Title_154,United States,2024,2024-01-21,TV-PG,Documentary,126.0,
+s12,Movie,Title_12,Australia,2022,2022-08-20,R,Thriller,115.0,
+s332,Movie,Title_332,Mexico,2019,2020-09-21,TV-MA,Comedy,76.0,
+s53,Movie,Title_53,South Korea,2021,2021-04-09,TV-Y,Anime,163.0,
+s240,TV Show,Title_240,Spain,2022,2024-11-03,TV-14,Documentary,,7.0
+s527,Movie,Title_527,Mexico,2024,2024-01-21,TV-14,Kids,132.0,
+s291,Movie,Title_291,India,2017,2018-09-21,TV-14,Sci-Fi,125.0,
+s167,TV Show,Title_167,India,2020,2021-12-17,TV-14,Drama,,8.0
+s223,Movie,Title_223,Japan,2017,2017-11-02,PG-13,Romance,101.0,
+s365,TV Show,Title_365,Brazil,2022,2024-05-03,TV-PG,Comedy,,2.0
+s581,Movie,Title_581,Australia,2023,2023-07-07,TV-14,Drama,133.0,
+s296,TV Show,Title_296,France,2020,2020-05-19,PG-13,Action,,5.0
+s738,Movie,Title_738,Brazil,2024,2024-03-13,PG,Romance,100.0,
+s88,Movie,Title_88,Canada,2021,2021-11-04,TV-14,Drama,171.0,
+s415,TV Show,Title_415,United States,2024,2024-06-02,PG-13,Crime,,2.0
+s50,Movie,Title_50,Mexico,2024,2024-08-19,PG,Comedy,83.0,
+s649,Movie,Title_649,Spain,2021,2022-03-15,G,Documentary,64.0,
+s425,Movie,Title_425,Spain,2020,2022-03-08,PG-13,Anime,125.0,
+s606,Movie,Title_606,South Korea,2018,2020-08-04,PG,Crime,157.0,
+s497,TV Show,Title_497,Australia,2022,2023-08-22,TV-14,Comedy,,4.0
+s634,Movie,Title_634,Spain,2024,2024-02-21,TV-14,Kids,177.0,
+s212,Movie,Title_212,India,2023,2024-10-10,TV-MA,Kids,74.0,
+s25,Movie,Title_25,India,2024,2024-11-06,TV-14,Horror,98.0,
+s519,Movie,Title_519,Canada,2023,2024-02-14,TV-MA,Romance,69.0,
+s536,Movie,Title_536,United States,2024,2024-11-12,TV-14,Anime,119.0,
+s688,Movie,Title_688,Mexico,2019,2019-06-10,TV-MA,Comedy,72.0,
+s226,Movie,Title_226,United Kingdom,2022,2023-11-03,R,Comedy,144.0,
+s508,TV Show,Title_508,Brazil,2020,2021-09-12,TV-MA,Drama,,4.0
+s755,Movie,Title_755,United States,2020,2020-07-16,R,Documentary,167.0,
+s779,Movie,Title_779,Germany,2017,2017-09-12,TV-PG,Comedy,165.0,
+s702,Movie,Title_702,India,2021,2023-02-26,PG,Thriller,132.0,
+s14,TV Show,Title_14,Japan,2020,2020-09-11,PG-13,Drama,,7.0
+s256,Movie,Title_256,India,2016,2017-03-11,TV-14,Kids,131.0,
+s744,TV Show,Title_744,Mexico,2015,2015-05-18,TV-14,Kids,,7.0
+s728,TV Show,Title_728,Australia,2021,2022-11-12,R,Sci-Fi,,5.0
+s198,Movie,Title_198,Australia,2021,2022-07-14,PG,Thriller,79.0,
+s468,Movie,Title_468,Spain,2021,2021-03-13,PG-13,Comedy,165.0,
+s324,TV Show,Title_324,India,2019,2019-12-15,R,Sci-Fi,,5.0
+s592,Movie,Title_592,United States,2019,2020-01-22,R,Horror,126.0,
+s334,Movie,Title_334,Mexico,2012,2012-09-16,TV-PG,Comedy,135.0,
+s18,Movie,Title_18,Brazil,2010,2011-02-11,,Comedy,80.0,
+s336,Movie,Title_336,South Korea,2009,2011-06-03,TV-MA,Drama,105.0,
+s165,Movie,Title_165,Spain,2015,2016-12-09,TV-PG,Sci-Fi,87.0,
+s644,Movie,Title_644,Mexico,2015,2016-12-01,TV-MA,Comedy,157.0,
+s390,Movie,Title_390,Spain,2022,2024-08-19,TV-MA,Action,175.0,
+s693,TV Show,Title_693,Japan,2009,2009-04-12,TV-MA,Crime,,6.0
+s248,Movie,Title_248,United States,2021,2023-03-22,TV-PG,Kids,101.0,
+s244,TV Show,Title_244,India,2009,2010-03-11,PG-13,Romance,,4.0
+s578,Movie,Title_578,Canada,2023,2024-07-21,TV-PG,Documentary,169.0,
+s754,Movie,Title_754,France,2022,2022-03-17,TV-Y7,Action,167.0,
+s748,Movie,Title_748,Mexico,2024,2024-01-16,TV-PG,Kids,109.0,
+s735,Movie,Title_735,India,2019,2021-01-11,TV-14,Romance,155.0,
+s37,Movie,Title_37,India,2021,2023-01-26,TV-MA,Crime,82.0,
+s115,Movie,Title_115,,2024,2024-05-04,TV-14,Horror,76.0,
+s683,Movie,Title_683,France,2024,2024-08-01,PG,Drama,128.0,
+s636,Movie,Title_636,Brazil,2020,2021-07-15,TV-MA,Crime,62.0,
+s178,Movie,Title_178,Japan,2019,2020-05-27,PG,Thriller,74.0,
+s446,Movie,Title_446,France,2016,2016-04-02,TV-MA,Action,179.0,
+s786,TV Show,Title_786,Brazil,2024,2024-08-13,TV-MA,Anime,,4.0
+s202,Movie,Title_202,Australia,2022,2022-12-19,TV-Y7,Anime,171.0,
+s471,Movie,Title_471,United Kingdom,2018,2020-09-21,PG-13,Drama,103.0,
+s664,Movie,Title_664,United Kingdom,2024,2024-07-12,TV-14,Kids,149.0,
+s378,TV Show,Title_378,Mexico,2023,2024-09-16,PG,Comedy,,6.0
+s232,TV Show,Title_232,France,2020,2020-03-06,TV-MA,Sci-Fi,,5.0
+s326,Movie,Title_326,Japan,2022,2022-07-06,PG,Drama,66.0,
+s716,Movie,Title_716,Germany,2021,2022-02-18,PG,Thriller,156.0,
+s658,TV Show,Title_658,Australia,2023,2024-02-17,R,Crime,,2.0
+s645,TV Show,Title_645,Brazil,2018,2019-01-01,R,Documentary,,4.0
+s105,Movie,Title_105,Brazil,2024,2024-03-09,TV-Y,Kids,133.0,
+s730,Movie,Title_730,Canada,2019,2021-02-17,TV-14,Sci-Fi,160.0,
+s180,TV Show,Title_180,France,2024,2024-04-16,G,Action,,8.0
+s46,Movie,Title_46,Germany,2017,2019-11-20,PG-13,Crime,147.0,
+s203,Movie,Title_203,United States,2022,2023-12-19,TV-MA,Thriller,93.0,
+s157,Movie,Title_157,Japan,2022,2024-01-05,TV-PG,Kids,105.0,
+s258,Movie,Title_258,Australia,2022,2023-04-23,TV-MA,Sci-Fi,122.0,
+s602,TV Show,Title_602,Japan,2021,2022-06-07,PG,Sci-Fi,,2.0
+s577,Movie,Title_577,United States,2020,2021-10-24,TV-PG,Comedy,137.0,
+s439,TV Show,Title_439,United States,2021,2022-06-22,TV-PG,Sci-Fi,,7.0
+s454,Movie,Title_454,Canada,2009,2011-01-25,TV-MA,Kids,62.0,
+s260,Movie,Title_260,Canada,2013,2015-06-13,TV-PG,Action,145.0,
+s156,TV Show,Title_156,Australia,2019,2021-10-02,TV-MA,Romance,,3.0
+s566,TV Show,Title_566,Australia,2019,2019-10-06,R,Kids,,7.0
+s100,Movie,Title_100,Japan,2018,2019-08-21,TV-MA,Action,152.0,
+s689,TV Show,Title_689,Japan,2022,2023-06-21,R,Kids,,2.0
+s482,Movie,Title_482,Japan,2016,2018-04-20,TV-MA,Thriller,169.0,
+s169,Movie,Title_169,Australia,2021,2021-04-03,TV-MA,Romance,130.0,
+s173,Movie,Title_173,Brazil,2022,2023-11-12,TV-PG,Anime,131.0,
+s733,Movie,Title_733,United Kingdom,2013,2013-02-20,PG,Action,160.0,
+s572,Movie,Title_572,Australia,2023,2023-09-10,TV-Y,Thriller,131.0,
+s407,Movie,Title_407,France,2019,2021-01-02,TV-14,Documentary,147.0,
+s258,Movie,Title_258,Australia,2022,2023-04-23,TV-MA,Sci-Fi,122.0,
+s648,Movie,Title_648,Germany,2024,2024-02-11,TV-14,Comedy,107.0,
+s338,TV Show,Title_338,United Kingdom,2024,2024-03-25,PG-13,Action,,2.0
+s317,Movie,Title_317,Japan,2016,2017-09-12,TV-14,Comedy,178.0,
+s774,Movie,Title_774,Australia,2019,2021-04-01,TV-MA,Comedy,178.0,
+s799,Movie,Title_799,Canada,2016,2017-12-06,R,Anime,60.0,
+s515,Movie,Title_515,Germany,2021,2023-03-03,TV-14,Kids,65.0,
+s111,Movie,Title_111,France,2023,2023-03-04,TV-PG,Documentary,158.0,
+s727,Movie,Title_727,Canada,2009,2009-10-22,TV-MA,Kids,133.0,
+s672,Movie,Title_672,United Kingdom,2018,2019-05-06,PG,Anime,84.0,
+s782,Movie,Title_782,Spain,2020,2022-01-13,TV-MA,Horror,158.0,
+s138,Movie,Title_138,Germany,2018,2019-05-22,TV-14,Romance,91.0,
+s357,Movie,Title_357,South Korea,2020,2020-11-16,PG,Comedy,78.0,
+s188,TV Show,Title_188,France,2024,2024-04-09,TV-MA,Drama,,7.0
+s565,Movie,Title_565,India,2009,2009-03-16,R,Drama,173.0,
+s657,Movie,Title_657,Germany,2011,2013-02-16,TV-14,Horror,149.0,
+s89,TV Show,Title_89,Canada,2013,2014-11-07,PG-13,Romance,,7.0
+s485,Movie,Title_485,South Korea,2019,2021-12-03,TV-PG,Anime,125.0,
+s35,Movie,Title_35,United Kingdom,2008,2010-04-24,TV-MA,Thriller,125.0,
+s796,Movie,Title_796,United States,2023,2023-08-24,TV-MA,Kids,88.0,
+s302,TV Show,Title_302,Spain,2020,2022-06-04,PG-13,Drama,,1.0
+s292,TV Show,Title_292,South Korea,2010,2011-11-08,TV-Y,Thriller,,6.0
+s95,Movie,Title_95,Germany,2019,2021-03-13,TV-Y7,Romance,109.0,
+s387,Movie,Title_387,France,2020,2020-09-22,TV-MA,Action,94.0,
+s30,Movie,Title_30,United Kingdom,2021,2021-03-18,G,Anime,170.0,
+s133,TV Show,Title_133,France,2018,2020-05-02,TV-14,Comedy,,8.0
+s514,Movie,Title_514,Mexico,2017,2018-05-14,TV-MA,Sci-Fi,114.0,
+s114,Movie,Title_114,Canada,2024,2024-01-22,TV-14,Anime,70.0,
+s243,Movie,Title_243,United Kingdom,2018,2018-11-15,TV-14,Drama,74.0,
+s656,TV Show,Title_656,Brazil,2008,2008-05-06,TV-MA,Comedy,,5.0
+s242,Movie,Title_242,Japan,2021,2022-10-23,TV-Y,Anime,117.0,
+s269,Movie,Title_269,Australia,2016,2018-11-01,PG-13,Crime,110.0,
+s406,Movie,Title_406,United States,2023,2023-09-16,PG,Crime,69.0,
+s613,Movie,Title_613,Brazil,2020,2020-01-17,TV-MA,Crime,65.0,
+s490,Movie,Title_490,Australia,2016,2017-06-27,R,Sci-Fi,118.0,
+s22,Movie,Title_22,United Kingdom,2022,2023-01-13,R,Action,95.0,
+s238,Movie,Title_238,Brazil,2022,2024-09-04,TV-MA,Sci-Fi,104.0,
+s63,TV Show,Title_63,Canada,2020,2020-03-01,PG-13,Kids,,6.0
+s27,Movie,Title_27,Mexico,2015,2017-12-11,TV-Y7,Horror,85.0,
+s389,Movie,Title_389,Spain,2019,2020-05-09,TV-MA,Drama,155.0,
+s78,Movie,Title_78,Mexico,2021,2023-01-18,R,Crime,166.0,
+s140,Movie,Title_140,United Kingdom,2021,2022-01-19,PG,Horror,157.0,
+s230,Movie,Title_230,France,2016,2017-05-25,PG,Comedy,138.0,
+s386,TV Show,Title_386,France,2021,2022-07-19,TV-PG,Documentary,,2.0
+s759,Movie,Title_759,Brazil,2016,2017-07-24,PG-13,Kids,92.0,
+s706,Movie,Title_706,United States,2019,2020-01-27,TV-PG,Romance,97.0,
+s24,Movie,Title_24,Germany,2015,2016-06-07,TV-14,Crime,60.0,
+s426,Movie,Title_426,India,2015,2015-11-01,PG-13,Drama,110.0,
+s172,Movie,Title_172,United States,2016,2018-06-24,TV-Y,Horror,81.0,
+s263,Movie,Title_263,Japan,2016,2017-09-18,TV-14,Thriller,160.0,
+s790,TV Show,Title_790,United Kingdom,2021,2021-07-23,TV-MA,Thriller,,3.0
+s344,TV Show,Title_344,Brazil,2010,2012-04-21,TV-MA,Action,,2.0
+s337,Movie,Title_337,Brazil,2016,2016-01-12,TV-14,Kids,89.0,
+s43,Movie,Title_43,United Kingdom,2015,2016-02-01,TV-MA,Comedy,174.0,
+s213,Movie,Title_213,Brazil,2021,2022-02-13,TV-MA,Action,92.0,
+s795,Movie,Title_795,Brazil,2010,2012-09-22,PG-13,Thriller,152.0,
+s661,Movie,Title_661,United States,2024,2024-08-19,PG-13,Kids,75.0,
+s300,TV Show,Title_300,Germany,2022,2022-03-15,,Action,,3.0
+s143,TV Show,Title_143,United States,2019,2021-03-27,,Documentary,,1.0
+s400,Movie,Title_400,Canada,2022,2022-01-18,R,Horror,154.0,
+s39,Movie,Title_39,France,2021,2022-02-25,TV-PG,Drama,117.0,
+s340,Movie,Title_340,France,2015,2015-08-13,PG-13,Drama,130.0,
+s83,Movie,Title_83,United Kingdom,2024,2024-12-09,PG-13,Thriller,177.0,
+s800,TV Show,Title_800,Canada,2019,2020-12-19,PG,Sci-Fi,,4.0
+s360,Movie,Title_360,India,2020,2021-10-19,TV-14,Kids,85.0,
+s262,Movie,Title_262,Germany,2012,2014-09-25,PG-13,Sci-Fi,151.0,
+s498,Movie,Title_498,South Korea,2010,2012-07-06,R,Documentary,64.0,
+s129,Movie,Title_129,Germany,2020,2021-05-20,TV-MA,Crime,91.0,
+s87,Movie,Title_87,Spain,2021,2022-07-08,R,Kids,122.0,
+s278,TV Show,Title_278,Japan,2017,2017-07-07,TV-14,Comedy,,3.0
+s417,Movie,Title_417,Canada,2024,2024-06-08,TV-14,Kids,93.0,
+s217,TV Show,Title_217,Germany,2018,2019-10-27,TV-Y,Horror,,4.0
+s570,Movie,Title_570,Brazil,2015,2016-02-04,PG-13,Sci-Fi,60.0,
+s199,Movie,Title_199,Germany,2021,2021-01-14,PG-13,Drama,126.0,
+s322,TV Show,Title_322,Brazil,2018,2020-12-23,TV-Y,Action,,1.0
+s418,TV Show,Title_418,United Kingdom,2024,2024-07-15,TV-Y,Kids,,2.0
+s598,Movie,Title_598,Germany,2016,2016-01-06,TV-MA,Anime,129.0,
+s589,Movie,Title_589,Canada,2020,2022-05-12,TV-MA,Kids,135.0,
+s552,Movie,Title_552,South Korea,2009,2009-08-19,TV-PG,Thriller,65.0,
+s483,Movie,Title_483,South Korea,2024,2024-08-17,TV-PG,Comedy,140.0,
+s436,Movie,Title_436,Mexico,2024,2024-06-17,TV-MA,Romance,87.0,
+s210,TV Show,Title_210,Canada,2019,2021-07-01,TV-PG,Action,,4.0
+s449,Movie,Title_449,Japan,2009,2010-10-05,,Action,107.0,
+s481,Movie,Title_481,Germany,2017,2018-12-03,TV-PG,Crime,96.0,
+s724,Movie,Title_724,Mexico,2023,2023-08-25,TV-MA,Kids,78.0,
+s773,Movie,Title_773,Mexico,2016,2017-02-08,TV-Y,Thriller,146.0,
+s276,Movie,Title_276,United States,2015,2017-09-16,R,Romance,81.0,
+s458,Movie,Title_458,India,2008,2010-08-02,TV-14,Crime,62.0,
+s397,Movie,Title_397,France,2024,2024-06-26,TV-MA,Romance,98.0,
+s179,TV Show,Title_179,Japan,2010,2012-11-15,TV-Y7,Comedy,,5.0
+s461,Movie,Title_461,Germany,2024,2024-12-17,TV-14,Crime,131.0,
+s475,Movie,Title_475,South Korea,2024,2024-01-01,TV-Y7,Action,101.0,
+s732,TV Show,Title_732,United States,2019,2020-11-27,TV-MA,Thriller,,7.0
+s725,Movie,Title_725,Spain,2021,2023-09-16,TV-MA,Action,113.0,
+s286,Movie,Title_286,,2014,2014-09-19,TV-14,Documentary,171.0,
+s379,Movie,Title_379,South Korea,2023,2023-12-04,R,Sci-Fi,98.0,
+s614,Movie,Title_614,United States,2023,2023-04-12,TV-MA,Romance,95.0,
+s363,Movie,Title_363,Mexico,2024,2024-07-16,TV-MA,Comedy,131.0,
+s681,Movie,Title_681,Canada,2024,2024-03-07,TV-14,Romance,117.0,
+s695,Movie,Title_695,Mexico,2019,2021-02-10,TV-MA,Romance,63.0,
+s173,Movie,Title_173,Brazil,2022,2023-11-12,TV-PG,Anime,131.0,
+s767,Movie,Title_767,Canada,2013,2014-05-06,TV-MA,Horror,162.0,
+s118,Movie,Title_118,France,2019,2021-11-26,TV-MA,Thriller,71.0,
+s122,Movie,Title_122,Canada,2023,2024-06-10,TV-MA,Thriller,76.0,
+s215,Movie,Title_215,South Korea,2022,2022-08-23,TV-PG,Comedy,96.0,
+s453,TV Show,Title_453,Australia,2018,2019-03-04,TV-MA,Romance,,4.0
+s448,Movie,Title_448,Brazil,2024,2024-09-24,TV-MA,Comedy,161.0,
+s325,TV Show,Title_325,India,2023,2024-07-27,TV-MA,Crime,,7.0
+s253,Movie,Title_253,Mexico,2023,2024-04-03,TV-MA,Romance,70.0,
+s433,TV Show,Title_433,Canada,2023,2024-01-24,PG,Drama,,1.0
+s404,Movie,Title_404,Australia,2020,2021-04-22,PG,Documentary,98.0,
+s327,TV Show,Title_327,South Korea,2015,2016-08-04,PG-13,Crime,,4.0
+s358,Movie,Title_358,India,2021,2022-07-09,TV-Y,Drama,107.0,
+s272,Movie,Title_272,Australia,2009,2009-11-12,PG-13,Documentary,87.0,
+s435,Movie,Title_435,Australia,2022,2024-05-09,TV-14,Drama,174.0,
+s637,Movie,Title_637,United Kingdom,2023,2024-09-22,TV-MA,Comedy,94.0,
+s625,Movie,Title_625,Mexico,2020,2021-10-15,TV-Y7,Kids,73.0,
+s11,TV Show,Title_11,Brazil,2009,2011-12-06,TV-MA,Action,,1.0
+s55,Movie,Title_55,Brazil,2021,2022-07-18,PG-13,Romance,62.0,
+s769,TV Show,Title_769,South Korea,2019,2021-04-11,TV-14,Comedy,,1.0
+s750,Movie,Title_750,France,2019,2021-11-06,TV-PG,Drama,126.0,
+s542,TV Show,Title_542,Australia,2020,2020-03-15,PG,Drama,,4.0
+s141,Movie,Title_141,Germany,2015,2016-05-01,G,Kids,164.0,
+s771,Movie,Title_771,Mexico,2014,2015-01-26,TV-MA,Action,176.0,
+s542,TV Show,Title_542,Australia,2020,2020-03-15,PG,Drama,,4.0
+s643,TV Show,Title_643,Spain,2023,2024-02-14,R,Romance,,6.0
+s573,Movie,Title_573,Canada,2024,2024-08-27,PG-13,Comedy,81.0,
+s206,TV Show,Title_206,United Kingdom,2019,2019-09-17,TV-14,Thriller,,3.0
+s15,TV Show,Title_15,Japan,2023,2024-02-27,PG,Thriller,,2.0
+s298,Movie,Title_298,South Korea,2018,2019-05-27,TV-MA,Sci-Fi,138.0,
+s464,TV Show,Title_464,,2017,2019-11-08,TV-14,Thriller,,4.0
+s153,TV Show,Title_153,United States,2010,2012-12-12,TV-MA,Drama,,8.0
+s281,Movie,Title_281,United States,2015,2017-07-15,TV-14,Anime,75.0,
+s756,Movie,Title_756,United States,2021,2022-03-11,G,Kids,173.0,
+s185,Movie,Title_185,South Korea,2019,2020-01-04,TV-PG,Documentary,107.0,
+s561,TV Show,Title_561,Australia,2013,2014-12-13,TV-Y7,Drama,,2.0
+s193,Movie,Title_193,United States,2021,2022-12-26,TV-MA,Anime,102.0,
+s670,Movie,Title_670,Germany,2015,2017-06-11,TV-PG,Sci-Fi,86.0,
+s420,TV Show,Title_420,United States,2017,2017-02-19,TV-Y7,Romance,,2.0
+s562,Movie,Title_562,Spain,2016,2018-10-16,TV-MA,Anime,107.0,
+s342,TV Show,Title_342,Australia,2019,2020-02-05,TV-Y7,Anime,,5.0
+s785,Movie,Title_785,Mexico,2024,2024-01-22,TV-MA,Thriller,128.0,
+s151,TV Show,Title_151,France,2022,2024-01-18,TV-PG,Romance,,8.0
+s419,Movie,Title_419,Japan,2022,2024-01-02,TV-14,Horror,144.0,
+s520,Movie,Title_520,South Korea,2021,2022-02-07,TV-MA,Horror,86.0,
+s703,Movie,Title_703,South Korea,2019,2020-04-02,PG-13,Sci-Fi,66.0,
+s455,TV Show,Title_455,Canada,2019,2019-11-24,TV-PG,Romance,,7.0
+s494,TV Show,Title_494,Brazil,2019,2020-08-07,TV-14,Thriller,,3.0
+s162,TV Show,Title_162,Canada,2016,2016-06-22,G,Sci-Fi,,2.0
+s587,Movie,Title_587,Mexico,2021,2021-11-08,G,Thriller,108.0,
+s145,Movie,Title_145,Brazil,2020,2020-03-05,R,Thriller,64.0,
+s170,Movie,Title_170,Japan,2016,2016-09-17,PG,Anime,67.0,
+s612,Movie,Title_612,Mexico,2023,2024-03-19,R,Drama,159.0,
+s775,Movie,Title_775,Spain,2020,2021-07-19,PG-13,Kids,110.0,
+s528,Movie,Title_528,Mexico,2015,2015-02-21,TV-14,Action,143.0,
+s556,Movie,Title_556,Japan,2015,2017-11-26,TV-14,Crime,151.0,
+s381,TV Show,Title_381,Brazil,2017,2018-09-21,TV-MA,Horror,,8.0
+s376,TV Show,Title_376,United States,2014,2015-06-01,TV-PG,Thriller,,2.0
+s789,Movie,Title_789,Japan,2022,2022-10-18,TV-MA,Horror,148.0,
+s571,TV Show,Title_571,Mexico,2017,2017-12-27,TV-14,Kids,,5.0
+s148,Movie,Title_148,Germany,2023,2023-12-12,TV-PG,Sci-Fi,74.0,
+s680,Movie,Title_680,Mexico,2015,2015-07-17,TV-MA,Kids,75.0,
+s474,Movie,Title_474,Canada,2017,2017-10-03,,Crime,161.0,
+s457,Movie,Title_457,Spain,2017,2019-10-24,TV-14,Documentary,81.0,
+s221,Movie,Title_221,Mexico,2020,2020-02-02,TV-MA,Romance,139.0,
+s175,TV Show,Title_175,United Kingdom,2024,2024-01-13,TV-PG,Drama,,7.0
+s268,Movie,Title_268,,2024,2024-04-20,TV-MA,Sci-Fi,176.0,
+s76,Movie,Title_76,United Kingdom,2019,2020-07-06,TV-MA,Anime,152.0,
+s484,TV Show,Title_484,Canada,2022,2024-01-26,TV-Y7,Action,,7.0
+s660,TV Show,Title_660,,2024,2024-12-22,TV-MA,Drama,,2.0
+s646,Movie,Title_646,Mexico,2020,2021-11-07,TV-MA,Sci-Fi,104.0,
+s413,Movie,Title_413,Spain,2023,2024-03-02,TV-MA,Action,61.0,
+s7,Movie,Title_7,India,2015,2017-09-05,TV-14,Crime,114.0,
+s665,Movie,Title_665,South Korea,2019,2021-01-01,TV-MA,Anime,171.0,
+s227,Movie,Title_227,Germany,2016,2018-11-12,TV-14,Kids,69.0,
+s216,Movie,Title_216,Mexico,2017,2017-07-24,TV-MA,Thriller,103.0,
+s99,TV Show,Title_99,Australia,2023,2024-12-23,TV-14,Horror,,1.0
+s249,Movie,Title_249,United States,2022,2023-05-27,TV-Y,Sci-Fi,136.0,
+s106,TV Show,Title_106,India,2019,2019-08-18,TV-MA,Action,,4.0
+s696,Movie,Title_696,Mexico,2024,2024-01-04,R,Kids,148.0,
+s119,Movie,Title_119,South Korea,2023,2024-02-21,TV-14,Crime,102.0,
+s207,Movie,Title_207,Australia,2016,2018-12-27,TV-PG,Romance,164.0,
+s113,Movie,Title_113,Japan,2021,2022-07-21,PG-13,Action,149.0,
+s529,TV Show,Title_529,Spain,2019,2020-11-16,TV-MA,Sci-Fi,,4.0
+s305,TV Show,Title_305,India,2016,2017-03-25,TV-PG,Comedy,,2.0
+s20,Movie,Title_20,Mexico,2018,2018-05-11,TV-MA,Kids,154.0,
+s427,TV Show,Title_427,France,2024,2024-01-11,PG-13,Comedy,,7.0
+s743,TV Show,Title_743,South Korea,2021,2022-06-18,TV-14,Crime,,8.0
+s394,TV Show,Title_394,Germany,2014,2014-05-03,TV-14,Documentary,,1.0
+s383,Movie,Title_383,India,2020,2022-12-12,TV-MA,Action,77.0,
+s8,Movie,Title_8,Germany,2018,2020-12-22,TV-PG,Horror,108.0,
+s161,TV Show,Title_161,Spain,2023,2023-01-24,TV-PG,Romance,,3.0
+s352,Movie,Title_352,Canada,2012,2014-04-07,TV-14,Horror,106.0,
+s647,Movie,Title_647,United Kingdom,2021,2021-01-16,R,Sci-Fi,113.0,
+s47,Movie,Title_47,India,2010,2010-07-22,TV-PG,Anime,118.0,
+s635,Movie,Title_635,Spain,2010,2012-03-05,PG,Drama,137.0,
+s424,Movie,Title_424,Japan,2021,2023-04-12,,Romance,150.0,
+s311,Movie,Title_311,Germany,2022,2023-11-12,TV-14,Documentary,102.0,
+s551,Movie,Title_551,Spain,2023,2023-07-20,PG-13,Romance,76.0,
+s467,Movie,Title_467,Australia,2021,2022-05-20,TV-PG,Kids,124.0,
+s451,TV Show,Title_451,Brazil,2019,2020-01-19,TV-Y,Horror,,4.0
+s364,Movie,Title_364,Brazil,2019,2019-06-25,,Drama,73.0,
+s294,TV Show,Title_294,Australia,2017,2017-11-14,TV-Y7,Action,,7.0
+s604,Movie,Title_604,Australia,2016,2016-11-08,TV-MA,Drama,112.0,
+s615,Movie,Title_615,France,2019,2019-07-26,R,Crime,134.0,
+s218,Movie,Title_218,Japan,2020,2022-11-12,PG,Comedy,115.0,
+s377,Movie,Title_377,Mexico,2015,2016-10-02,R,Romance,83.0,
+s124,Movie,Title_124,France,2008,2009-10-06,R,Anime,85.0,
+s549,Movie,Title_549,Spain,2022,2022-02-06,TV-MA,Crime,167.0,
+s200,TV Show,Title_200,India,2024,2024-09-27,PG-13,Drama,,5.0
+s423,TV Show,Title_423,France,2017,2019-04-15,PG-13,Crime,,4.0
+s3,Movie,Title_3,Canada,2021,2021-12-27,PG-13,Action,132.0,
+s395,Movie,Title_395,Canada,2010,2012-03-09,PG-13,Sci-Fi,171.0,
+s560,Movie,Title_560,India,2020,2020-02-09,PG,Romance,99.0,
+s736,TV Show,Title_736,France,2020,2021-02-05,TV-MA,Anime,,4.0
+s29,Movie,Title_29,France,2021,2022-05-17,TV-14,Drama,150.0,
+s713,Movie,Title_713,Germany,2022,2024-01-10,TV-14,Thriller,149.0,
+s534,Movie,Title_534,France,2024,2024-08-17,PG-13,Drama,168.0,
+s686,Movie,Title_686,Mexico,2020,2020-08-01,TV-PG,Anime,80.0,
+s21,TV Show,Title_21,Australia,2019,2021-05-19,G,Sci-Fi,,8.0
+s32,Movie,Title_32,Brazil,2020,2022-01-15,TV-MA,Anime,122.0,
+s599,Movie,Title_599,Japan,2020,2022-03-22,PG-13,Sci-Fi,60.0,
+s576,Movie,Title_576,,2020,2020-04-10,TV-MA,Romance,79.0,
+s492,Movie,Title_492,Canada,2024,2024-07-04,PG,Crime,63.0,
+s348,Movie,Title_348,India,2013,2015-04-06,TV-14,Horror,96.0,
+s477,Movie,Title_477,Japan,2017,2019-09-15,R,Anime,179.0,
+s784,Movie,Title_784,South Korea,2017,2017-04-24,PG-13,Action,90.0,
+s82,Movie,Title_82,Germany,2011,2011-05-19,TV-PG,Action,136.0,
+s495,Movie,Title_495,Spain,2019,2019-05-09,TV-14,Crime,84.0,
+s382,TV Show,Title_382,Japan,2017,2017-03-26,R,Comedy,,1.0
+s742,Movie,Title_742,South Korea,2021,2021-12-24,TV-14,Thriller,63.0,
+s10,Movie,Title_10,Germany,2020,2021-12-27,TV-MA,Action,133.0,
+s323,Movie,Title_323,South Korea,2023,2023-05-16,TV-MA,Thriller,112.0,
+s411,Movie,Title_411,Mexico,2023,2023-05-27,TV-14,Documentary,138.0,
+s171,Movie,Title_171,Germany,2015,2016-03-10,TV-14,Romance,141.0,
+s564,Movie,Title_564,Spain,2021,2022-04-14,TV-Y7,Comedy,84.0,
+s778,Movie,Title_778,United States,2021,2023-04-06,PG-13,Comedy,171.0,
+s441,Movie,Title_441,Mexico,2015,2017-10-14,TV-PG,Sci-Fi,116.0,
+s448,Movie,Title_448,Brazil,2024,2024-09-24,TV-MA,Comedy,161.0,
+s103,Movie,Title_103,Mexico,2016,2018-12-22,R,Romance,101.0,
+s271,TV Show,Title_271,Germany,2015,2015-11-08,TV-MA,Documentary,,4.0
+s531,Movie,Title_531,Australia,2024,2024-04-07,TV-MA,Thriller,168.0,
+s316,Movie,Title_316,Australia,2015,2016-08-08,TV-MA,Crime,168.0,
+s355,Movie,Title_355,United Kingdom,2021,2023-04-20,TV-PG,Documentary,164.0,
+s350,Movie,Title_350,Germany,2020,2021-09-23,PG,Documentary,91.0,
+s144,Movie,Title_144,Canada,2024,2024-03-09,TV-MA,Action,93.0,
+s62,Movie,Title_62,Australia,2018,2019-09-19,PG,Action,139.0,
+s270,TV Show,Title_270,South Korea,2023,2023-02-12,PG-13,Documentary,,1.0
+s621,TV Show,Title_621,Spain,2015,2016-03-25,TV-MA,Drama,,5.0
+s668,Movie,Title_668,Germany,2019,2019-12-14,TV-MA,Comedy,71.0,
+s459,Movie,Title_459,United States,2018,2019-04-16,TV-MA,Anime,168.0,
+s116,TV Show,Title_116,Japan,2024,2024-04-08,TV-PG,Thriller,,8.0
+s86,Movie,Title_86,Mexico,2019,2019-05-20,TV-14,Documentary,92.0,
+s49,Movie,Title_49,Canada,2024,2024-12-01,TV-PG,Documentary,78.0,
+s704,TV Show,Title_704,Germany,2021,2021-01-04,TV-PG,Crime,,6.0
+s361,Movie,Title_361,Mexico,2015,2016-12-24,TV-PG,Romance,78.0,
+s137,TV Show,Title_137,Germany,2013,2013-08-21,TV-MA,Documentary,,4.0
+s134,Movie,Title_134,France,2021,2023-09-14,TV-PG,Sci-Fi,93.0,
+s362,TV Show,Title_362,Mexico,2024,2024-08-01,PG,Comedy,,6.0
+s341,TV Show,Title_341,India,2018,2020-09-01,TV-14,Kids,,5.0
+s452,TV Show,Title_452,United Kingdom,2011,2012-07-17,PG-13,Sci-Fi,,8.0

@@ -1,0 +1,30 @@
+STEP 1: DATA OVERVIEW
+Shape: (820, 10)
+
+Missing values:
+ShowID               0
+Type                 0
+Title                0
+Country             15
+ReleaseYear          0
+DateAdded            0
+Rating              15
+Genre                0
+DurationMinutes    247
+Seasons            573
+dtype: int64
+
+Duplicate rows: 20
+
+STEP 2: After cleaning -> shape: (800, 10)
+Note: DurationMinutes is only applicable to Movies, Seasons only to TV Shows - their NaNs are expected, not data errors.
+
+STEP 3: GENERATING VISUALIZATIONS
+8 charts saved.
+
+STEP 4: KEY INSIGHTS
+1. Movies make up 70.4% of the catalog, TV Shows the remainder.
+2. 'Comedy' is the most common genre on the platform.
+3. 'Canada' produces the most content in this dataset.
+4. 2024 saw the highest number of titles added.
+5. Average movie duration is 119 minutes.
